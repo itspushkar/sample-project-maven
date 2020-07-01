@@ -1,4 +1,4 @@
-node('node') {
+node('QA Environment') {
 
 
     currentBuild.result = "SUCCESS"
