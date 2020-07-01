@@ -31,7 +31,7 @@ node('node') {
 
          mail body: 'project build successful',
                      from: 'its.pushkaronline@gmail.com',
-                     replyTo: 'its.pushkaronline@gmail.com,
+                     replyTo: 'its.pushkaronline@gmail.com',
                      subject: 'project build successful',
                      to: 'its.pushkaronline@gmail.com'
        }
